@@ -16,6 +16,11 @@ margin:0 auto;
   background:#417aa8;
   color:#fff;
 }
+
+.jarak{
+  padding:0 2pc;
+}
+
 .menu{
   background-color:#417aa8;
   height:50px;
@@ -25,11 +30,9 @@ margin:0 auto;
   margin:0 auto;
   padding:0 auto;
 }
-.jarak{
-  padding:0 2pc;
-}
+
 .menu ul{
-  list-style: none;
+  list-style:none;
 }
 
 .menu ul li a{
